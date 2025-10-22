@@ -9,7 +9,7 @@ This project deploys a NGINX web server serving a custom index.html page accessi
 
 ## Deployment Details
 - **Platform**: Azure
-- **Server IP**: http://http://20.121.120.161/
+- **Server IP**: http://http://20.121.120.161/ 
 - **Deployed**: October 17, 2025
 - **Port**: 80 (HTTP)
 
