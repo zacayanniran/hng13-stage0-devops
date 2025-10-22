@@ -9,12 +9,12 @@ This project deploys a NGINX web server serving a custom index.html page accessi
 
 ## Deployment Details
 - **Platform**: Azure
-- **Server IP**: http://172.174.105.187/
+- **Server IP**: http://http://20.121.120.161/
 - **Deployed**: October 17, 2025
 - **Port**: 80 (HTTP)
 
 ## Access
-Visit http://172.174.105.187/ to see the custom page.
+Visit http://http://20.121.120.161/ to see the custom page.
 
 ## Setup
 1. Forked repo from hng13-stage0-devops
