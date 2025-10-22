@@ -5,7 +5,7 @@
 - **Slack Username**: Zac
 
 ## Project Description
-This project deploys a NGINX web server serving a custom index.html page accessible at http://172.174.105.187/ on port 80. The server is hosted on DigitalOcean VPS and configured with custom content including my name, Slack username, platform, and deployment date.
+This project deploys a NGINX web server serving a custom index.html page accessible at http://172.174.105.187/ on port 80. The server is hosted on Microsoft Azure and configured with custom content including my name, Slack username, platform, and deployment date.
 
 ## Deployment Details
 - **Platform**: Azure
